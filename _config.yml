@@ -1,0 +1,28 @@
+name: Originating Circle
+favicon: null
+layout_spectrum: 0.1178895786870271
+typography_spectrum: 0.6446154122240841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.306446461006999
+  lightness: 0.3313094188924879
+  saturation: 0.40218308730982244
+  rhythmicContrast: 0.3226892710663378
+purpose: []
